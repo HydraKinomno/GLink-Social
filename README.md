@@ -7,7 +7,7 @@ PLUS EVER GETS SHUT DOWN**
 
 About GLink:
 
-GLink+ is a recreation/revival of the lost Google+, love it or hate it Loogle+ is here to stay.
+GLink+ is a recreation/revival of the lost Google+, love it or hate it GLink+ is here to stay.
 It uses PHP for the backend, jQuery (a tint bit of normal javascript), CSS, of course HTML,
 with Bootstrap 3 as the CSS framework.
 
@@ -30,7 +30,7 @@ Password
 
 Note: PHP 7 and 8 should run it, idk about other stuff.
 
-https://ubuntu.com/server/docs/databases-mysql (I tested it on Ubuntu 23.10 and Fedora 39, php-mysql must be installed for myphpadmin)
+https://ubuntu.com/server/docs/databases-mysql (I tested it on an android phone..)
 
 1. Download myphpadmin and put it in the myphpadmin folder, https://www.phpmyadmin.net/
 
