@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/HydraKinomino/GLink-Social/blob/main/glink%20ss.png?raw=true)
+![alt text](https://github.com/HydraKinomno/GLink-Social/edit/main/glink%20ss.png)
 
 ** GLINK DOES NOT SUPPORT ANY PUBLIC INSTANCES RAN BY OTHER PEOPLE WE 
 WOULD PREFER PEOPLE TO KEEP THEM PRIVATE OF COURSE THAT WILL CHANGE IF GLINK
