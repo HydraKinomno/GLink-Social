@@ -1,4 +1,4 @@
-
+# project cancelled, go home.
 ![alt text](https://raw.githubusercontent.com/HydraKinomno/GLink-Social/refs/heads/main/glink%20ss.png)
 
 ** GLINK DOES NOT SUPPORT ANY PUBLIC INSTANCES RAN BY OTHER PEOPLE WE 
@@ -10,7 +10,7 @@ About GLink:
 GLink+ is a recreation/revival of the lost Google+, love it or hate it GLink+ is here to stay.
 It uses PHP for the backend, jQuery (a tint bit of normal javascript), CSS, of course HTML,
 with Bootstrap 3 as the CSS framework.
-
+it aims to clean political stuff and make it accurate to real Google+
 <hr>
 
 Thanks to https://github.com/gaffling/PHP-Grab-Favicon for the base for our metadata grabber.
